@@ -10,7 +10,10 @@ Dr. Latif Ullah Khan is a beamline scientist at BM08-XAFS/XRF Beamline, SESAME l
 * 💻 Python / Machine Learning
 * ✍️ Scientific Research Articles
 
-- 🔭 I’m currently working on XAFS Database and XES Instrumentation 
+## Current Project
+
+- 🔭 I’m currently working on XAFS Database and XES Instrumentation
+![current project]() 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/khanlatif001)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/latif-ullah-khan-711b95124//)  
