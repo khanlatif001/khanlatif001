@@ -7,7 +7,7 @@ Dr. Latif Ullah Khan is a beamline scientist at BM08-XAFS/XRF Beamline, SESAME l
 ## Skills and Experience
 
 * ⚛️ XAFS / XEOL / XRF Mapping
-* 💻 Python / Machine Learning
+* 💻 Python / Machine Learning / PyQt
 * ✍️ Scientific Research Articles
 
 ## Current Project
